@@ -1,0 +1,13 @@
+{
+  "serverless": {
+    "skipInstall": true,
+    "project": "ng-universal",
+    "provider": "aws",
+    "directory": "ng-universal",
+    "name": "ng-universal",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
